@@ -1,0 +1,53 @@
+cell_0000 Over_12_months 22 48 color=black,ribbon=yes,thickness=1p,z=20,radius=0.99r
+cell_0000 Normal 26 0 color=black,ribbon=yes,thickness=1p,z=20,radius=0.99r
+
+cell_0001 Over_12_months 20 22 color=black,ribbon=yes,thickness=1p,z=20,radius=0.99r
+cell_0001 Borderline 2 0 color=black,ribbon=yes,thickness=1p,z=20,radius=0.99r
+
+cell_0002 Over_12_months 12 20 color=black,ribbon=yes,thickness=1p,z=20,radius=0.99r
+cell_0002 Mild 8 0 color=black,ribbon=yes,thickness=1p,z=20,radius=0.99r
+
+cell_0003 Over_12_months 2 12 color=black,ribbon=yes,thickness=1p,z=20,radius=0.99r
+cell_0003 Moderate 10 0 color=black,ribbon=yes,thickness=1p,z=20,radius=0.99r
+
+cell_0004 Over_12_months 0 2 color=black,ribbon=yes,thickness=1p,z=20,radius=0.99r
+cell_0004 Severe 2 0 color=black,ribbon=yes,thickness=1p,z=20,radius=0.99r
+
+
+cell_0005 Under_12_months 105 124 color=grey,ribbon=yes,thickness=1p,z=10,radius=0.99r
+cell_0005 Normal 45 26 color=grey,ribbon=yes,thickness=1p,z=10,radius=0.99r
+
+cell_0006 Under_12_months 98 105 color=grey,ribbon=yes,thickness=1p,z=10,radius=0.99r
+cell_0006 Borderline 9 2 color=grey,ribbon=yes,thickness=1p,z=10,radius=0.99r
+
+cell_0007 Under_12_months 57 98 color=grey,ribbon=yes,thickness=1p,z=10,radius=0.99r
+cell_0007 Mild 49 8 color=grey,ribbon=yes,thickness=1p,z=10,radius=0.99r
+
+cell_0008 Under_12_months 27 57 color=grey,ribbon=yes,thickness=1p,z=10,radius=0.99r
+cell_0008 Moderate 40 10 color=grey,ribbon=yes,thickness=1p,z=10,radius=0.99r
+
+cell_0009 Under_12_months 0 27 color=grey,ribbon=yes,thickness=1p,z=10,radius=0.99r
+cell_0009 Severe 29 2 color=grey,ribbon=yes,thickness=1p,z=10,radius=0.99r
+
+# Add in the mutation Ans340Ser
+
+cell_0010 Over_12_months 34 37 color=vvdgreen,ribbon=yes,thickness=1p,z=100,radius=0.99r
+cell_0010 Normal 13 10 color=vvdgreen,ribbon=yes,thickness=1p,z=100,radius=0.99r
+
+cell_0011 Over_12_months 15 16 color=vvdgreen,ribbon=yes,thickness=1p,z=100,radius=0.99r
+cell_0011 Mild 5 4 color=vvdgreen,ribbon=yes,thickness=1p,z=100,radius=0.99r
+
+cell_0012 Over_12_months 5 7 color=vvdgreen,ribbon=yes,thickness=1p,z=100,radius=0.99r
+cell_0012 Moderate 7 5 color=vvdgreen,ribbon=yes,thickness=1p,z=100,radius=0.99r
+
+cell_0013 Under_12_months 110 115 color=vvdgreen,ribbon=yes,thickness=1p,z=15,radius=0.99r
+cell_0013 Normal 40 35 color=vvdgreen,ribbon=yes,thickness=1p,z=15,radius=0.99r
+
+cell_0014 Under_12_months 101 102 color=vvdgreen,ribbon=yes,thickness=1p,z=15,radius=0.99r
+cell_0014 Borderline 5 4 color=vvdgreen,ribbon=yes,thickness=1p,z=15,radius=0.99r
+
+cell_0015 Under_12_months 75 78 color=vvdgreen,ribbon=yes,thickness=1p,z=15,radius=0.99r
+cell_0015 Mild 30 27 color=vvdgreen,ribbon=yes,thickness=1p,z=15,radius=0.99r
+
+cell_0016 Under_12_months 42 43 color=vvdgreen,ribbon=yes,thickness=1p,z=15,radius=0.99r
+cell_0016 Moderate 25 24 color=vvdgreen,ribbon=yes,thickness=1p,z=15,radius=0.99r

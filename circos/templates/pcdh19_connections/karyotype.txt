@@ -1,0 +1,7 @@
+chr - Normal Normal 0 45 255,234,234
+chr - Borderline Borderline 0 9 255,191,191
+chr - Mild Mild 0 49 255,128,128
+chr - Moderate Moderate 0 40 255,64,64
+chr - Severe Severe 0 29 166,42,42
+chr - Under_12_months Under_12_months 0 124 192,192,192
+chr - Over_12_months Over_12_months 0 48  0,0,0
